@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgururaj2021
 - 👀 I’m interested in web development, fullstack developer
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning python django, nodejs and frontend part
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
