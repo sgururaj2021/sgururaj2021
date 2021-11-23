@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sgururaj2021
+- 👋 Hi, I’m Gururaj Singeetham
 - 👀 I’m interested in web development, fullstack developer
 - 🌱 I’m currently learning python django, nodejs and frontend part
 - 💞️ I’m looking to collaborate on ...
